@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const { z, string} = require('zod');
+const { z } = require('zod');
 const dotenv = require('dotenv');
 dotenv.config();
 
